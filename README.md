@@ -86,6 +86,7 @@ https://github.com/Hassan25dev/student-grade-analytics-system.git
 ## 👤 About
 
 Author: HASSANE AMANAD
+
 Context: Personal learning project developed during the AI-Enhanced Data Analyst Bootcamp – JobInTech (in partnership with Groupe Holmarcom & AI Institute).
 
 Skills Demonstrated:
@@ -101,4 +102,5 @@ Implementation of logic and control structures
 Clear and structured documentation
 
 License: MIT
+
 GitHub: @Hassan25dev
