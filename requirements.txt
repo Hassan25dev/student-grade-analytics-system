@@ -1,0 +1,5 @@
+# Requirements for Student Grade Analytics System
+# This project uses only built-in Python modules (no external packages).
+
+# Minimum Python version:
+python_version >= 3.8
