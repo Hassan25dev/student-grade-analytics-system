@@ -1,0 +1,10 @@
+Lina,18,16.5
+Omar,20,14.0
+Youssef,19,9.5
+Sara,21,12.0
+Hassan,22,8.0
+Imane,20,17.3
+Ayoub,19,13.2
+Nadia,18,15.7
+Reda,21,10.5
+Salma,20,11.8
