@@ -49,6 +49,7 @@ student-grade-analytics-system/
    ```bash
 https://github.com/Hassan25dev/student-grade-analytics-system.git
    ```
+
 3. Navigate to the folder:
    ```bash
    cd student-grade-analytics-system
