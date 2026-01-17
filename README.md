@@ -47,9 +47,8 @@ student-grade-analytics-system/
 1. Make sure you have **Python 3.8+** installed.  
 2. Clone the repository:
    ```bash
-https://github.com/Hassan25dev/student-grade-analytics-system.git
+   git clone https://github.com/Hassan25dev/student-grade-analytics-system.git
    ```
-
 3. Navigate to the folder:
    ```bash
    cd student-grade-analytics-system
@@ -58,7 +57,6 @@ https://github.com/Hassan25dev/student-grade-analytics-system.git
    ```bash
    python student_system.py
    ```
-
 ---
 
 ## 🧩 Example Output
@@ -86,22 +84,19 @@ https://github.com/Hassan25dev/student-grade-analytics-system.git
 
 ## 👤 About
 
-Author: HASSANE AMANAD
+**Author:** HASSANE AMANAD  
 
-Context: Personal learning project developed during the AI-Enhanced Data Analyst Bootcamp – JobInTech (in partnership with Groupe Holmarcom & AI Institute).
+**Context:**  
+Personal learning project developed during the *AI-Enhanced Data Analyst Bootcamp* – JobInTech  
+(in partnership with Groupe Holmarcom & AI Institute).
 
-Skills Demonstrated:
+**Skills Demonstrated:**  
+- Python programming and data handling  
+- File management and data persistence (text-based storage)  
+- Data organization and summarization  
+- Implementation of logic and control structures  
+- Clear and structured documentation  
 
-Python programming and data handling
+**License:** MIT  
+**GitHub:** [@Hassan25dev](https://github.com/Hassan25dev)
 
-File management and data persistence (text-based storage)
-
-Data organization and summarization
-
-Implementation of logic and control structures
-
-Clear and structured documentation
-
-License: MIT
-
-GitHub: @Hassan25dev
